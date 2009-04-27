@@ -7,6 +7,6 @@ These are systems and sub-systems that TGIF would benefit from having ported.
 
 = List =
 
-  * [issue:22 Concurrent Tests]
+  * [http://code.google.com/p/tgiframework/issues/detail?id=22 Concurrent Tests]
   * Rate Limiter
   * TAG API
