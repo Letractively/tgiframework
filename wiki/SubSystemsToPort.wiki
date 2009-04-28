@@ -2,17 +2,17 @@
 
 = Introduction =
 
-These are systems and sub-systems that TGIF would benefit from having ported.
+These are systems and sub-systems that TGIF would benefit from having ported. Things in *bold* are in progress.
 
 
 = List =
 
-  * [http://code.google.com/p/tgiframework/issues/detail?id=22 Concurrent Tests]
-  * Rate Limiter
-  * [http://code.google.com/p/tgiframework/issues/detail?id=11 TAG API]
-  * [http://code.google.com/p/tgiframework/issues/detail?id=8 memcache]
+  * *[http://code.google.com/p/tgiframework/issues/detail?id=8 memcache]*
+  * *[http://code.google.com/p/tgiframework/issues/detail?id=21 diagnostics]*
   * [http://code.google.com/p/tgiframework/issues/detail?id=10 js/css compiler]
+  * [http://code.google.com/p/tgiframework/issues/detail?id=11 TAG API]
+  * [http://code.google.com/p/tgiframework/issues/detail?id=22 Concurrent Tests]
+  * [http://code.google.com/p/tgiframework/issues/detail?id=27 Rate Limiter]
   * [http://code.google.com/p/tgiframework/issues/detail?id=12 cookie]
   * [http://code.google.com/p/tgiframework/issues/detail?id=17 filter]
   * [http://code.google.com/p/tgiframework/issues/detail?id=19 output cache]
-  * [http://code.google.com/p/tgiframework/issues/detail?id=21 diagnostics]
