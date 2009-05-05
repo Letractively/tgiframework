@@ -8,9 +8,10 @@ These are systems and sub-systems that TGIF would benefit from having ported. Th
 = List =
 
   * ~~[http://code.google.com/p/tgiframework/issues/detail?id=8 memcache]~~
-  * *[http://code.google.com/p/tgiframework/issues/detail?id=21 diagnostics]*
+  * ~~[http://code.google.com/p/tgiframework/issues/detail?id=21 diagnostics]~~
   * *[http://code.google.com/p/tgiframework/issues/detail?id=10 js/css compiler]*
   * [http://code.google.com/p/tgiframework/issues/detail?id=11 TAG API]
+  * logging system
   * [http://code.google.com/p/tgiframework/issues/detail?id=22 Concurrent Tests]
   * [http://code.google.com/p/tgiframework/issues/detail?id=27 Rate Limiter]
   * [http://code.google.com/p/tgiframework/issues/detail?id=12 cookie]
